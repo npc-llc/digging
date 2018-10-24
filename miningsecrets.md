@@ -1,5 +1,4 @@
-# digging
-digging up cryptos straight from the earth
+
 
 
 
@@ -39,7 +38,7 @@ digging up cryptos straight from the earth
 #Easy to buy in bulk
 #less efficient than ASIC   Hash/W
 
-## I/O
+##I/O
 #experimental
 #Inexpensive
 #efficient Hash/W
@@ -51,7 +50,7 @@ digging up cryptos straight from the earth
 
 ## Formulation
 
-#1# I think it makes most sense to build GPU focused rigs with onboard NVMe 
+# #1# I think it makes most sense to build GPU focused rigs with onboard NVMe 
 # to maximize each rigs potential. Mining GPU & I/O algo on single rig. 
 # Only need to make sure RAM & CPU are not bottleneck. So I will show an 
 # build which maximizes Hash/w so acheive quick ROI and quicker reinvestment
@@ -61,7 +60,7 @@ digging up cryptos straight from the earth
 # of the crypto market controlled for in the calculation. The GPUs will be 
 # mounted on risers off of the MOBO so the rig will fit up to 4 GPU per MOBO
 
-#2# Another option would be to make use of new small formfactor boards such 
+# #2# Another option would be to make use of new small formfactor boards such 
 # as raspberry Pi or ODROID. This would allow us to keep the machines very
 # compact and inexpensive. This would require some finesse and know-how to 
 # set up. The CPU and bus speeds would bottleneck the hashrate from these 
